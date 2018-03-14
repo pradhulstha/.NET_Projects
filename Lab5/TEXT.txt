@@ -1,0 +1,23 @@
+The odd numbers are(0-20): 1
+The odd numbers are(0-20): 3
+The odd numbers are(0-20): 5
+The odd numbers are(0-20): 7
+The odd numbers are(0-20): 9
+The odd numbers are(0-20): 11
+The odd numbers are(0-20): 13
+The odd numbers are(0-20): 15
+The odd numbers are(0-20): 17
+The odd numbers are(0-20): 19
+
+**********************************
+
+The even numbers are(0-20): 2
+The even numbers are(0-20): 4
+The even numbers are(0-20): 6
+The even numbers are(0-20): 8
+The even numbers are(0-20): 10
+The even numbers are(0-20): 12
+The even numbers are(0-20): 14
+The even numbers are(0-20): 16
+The even numbers are(0-20): 18
+The even numbers are(0-20): 20
